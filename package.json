@@ -22,6 +22,7 @@
     "webpack-dev-server": "^1.15.2"
   },
   "dependencies": {
+    "ol": "^5.1.3",
     "restore": "^0.3.0"
   }
 }
